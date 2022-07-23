@@ -1,2 +1,4 @@
 # MLBRookieanalysis
-In this project I will be collecting rookie batting averages for a given year. Comparing them for five years to see how well they have performed since their rookie year. Some questions I would like to answer would be 1) did they improve as experience was gained, 2) Did injury cause a decrease in average, and 3) is their salary comparable to their performance. I will then show visualization of the data of the results.
+In this project I will be collecting rookie batting averages for a given year. Comparing them to their fifth year to see how well they have performed since their rookie year. Some questions I would like to answer would be 1) did they improve as experience was gained.
+
+More details to follow as my project progresses.
