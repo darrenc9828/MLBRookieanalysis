@@ -23,7 +23,7 @@ In this project I will be collecting rookie batting averages for a given year. C
 
 
 
-#Requirements met for this project:
+                                     Requirements met for this project:
 
 Requiremnets are from the project requirements list from Code Kentucky list of requirements for Data analysis part 1:
 
