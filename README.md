@@ -4,7 +4,7 @@
 # MLBRookieanalysis
 In this project I will be collecting rookie batting averages for a given year. Comparing them to their fifth year to see how well they have performed since their rookie year. This project is an ongoing learning project that will be built on as I learn different things using pandas and other libraries installed.
 
-                                      Getting the Program to Run:
+##                                      Getting the Program to Run:
 1. Confirm that a version of Python 3 has been installed on your local machine
 
 2. Use Git Bash and navigate to where you would like the cloned repository using CD'command(the desired path)
