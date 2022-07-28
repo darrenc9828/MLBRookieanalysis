@@ -3,9 +3,9 @@ Required packages that will be needed
 Loading necessary libraries below.  
 If you do not have the libraries installed on your machine you will need to install them by using
  
- pip install pandas
- pip install numpy
- pip install matplotlib.pyplot
+ pip install pandas as pd
+ pip install numpy as np
+ pip install matplotlib.pyplot as plt
  pip install jupyter
  
  in your terminal.
