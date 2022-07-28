@@ -21,6 +21,8 @@ In this project I will be collecting rookie batting averages for a given year. C
 
 8. From the browser window open "MLBrookieanalysis.ipynb", run this to run the program.
 
+9. Once you have opened the file click "Run All' on the top of the notebook.
+
 
 
                                      Requirements met for this project:
