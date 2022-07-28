@@ -24,7 +24,7 @@ In this project I will be collecting rookie batting averages for a given year. C
 9. Once you have opened the file click "Run All' on the top of the notebook.
 
 
-
+## Requirements
                                      Requirements met for this project:
 
 Requiremnets are from the project requirements list from Code Kentucky list of requirements for Data analysis part 1:
