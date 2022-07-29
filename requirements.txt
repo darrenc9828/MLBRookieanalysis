@@ -4,11 +4,12 @@
 #in your terminal.
 
 
- pip install pandas as pd
- pip install numpy as np
- pip install matplotlib.pyplot as plt
+Python 3.10.4
+ pip install pandas 
+ pip install numpy 
+ pip install matplotlib.pyplot 
  pip install jupyter
- Python 3.10.4
+ 
 
 
 
