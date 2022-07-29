@@ -8,7 +8,7 @@ Python 3.10.4
  pip install pandas 
  pip install numpy 
  pip install matplotlib.pyplot 
- pip install jupyter
+ pip install notebook
  
 
 
