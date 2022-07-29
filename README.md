@@ -13,13 +13,13 @@ In this project I will be collecting rookie batting averages for a given year. C
 
 4. To make sure you have all necessary packages to run the program you will need to read the requirments.txt file in the repo.
 
-5. Once repo is cloned, use File Explorer to navigate to the directory folder that contains the repo.
+5. Once repo is cloned, use File Explorer or command promt to navigate to the directory folder that contains the repo.
 
 6. Once you have navigated to the folder, from the file path line type "cmd" to bring up the command prompt in that directory.
 
 7. From the command line, run "jupyter notebook", this will open a browser window.
 
-8. From the browser window open "MLBrookieanalysis.ipynb", run this to run the program.
+8. From the browser window open "MLBrookieanalysis.ipynb",to run the program.
 
 9. Once you have opened the file click "Run All' on the top of the notebook.
 
